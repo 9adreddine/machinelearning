@@ -1,0 +1,155 @@
+body{
+    background-color: white;
+    max-height: 2000px;
+}
+.a{
+    background-color: white;
+    height: 500px;
+    width: 90%;
+    margin-left: 1.5cm;
+    margin-top: -10px;
+}
+img{
+    height:3cm;
+    width: 3.4cm;
+    margin-top: 0.5cm;
+    margin-left: 1cm;
+}
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 6.4cm;
+    margin-top: 3cm;
+    padding: 5px 15px;
+}
+.b {
+    margin-left: 17cm;
+    margin-top: -15.5cm;
+}
+.c{
+    margin-top: 0cm;
+}
+.d {
+    margin-left: 0.5cm;
+    padding: 7px 19px;
+   
+}
+.d:hover{
+    background-color: #f93b6b;
+    border-radius: 1cm;
+    width: 50px;
+    
+}
+.m:hover{
+    background-color: #f93b6b;
+    border-radius: 1cm;
+    width: 150px;
+}
+.e{
+    margin-left: 2cm;
+    margin-top: 1.4cm;
+    height: 5cm;
+    width: 5cm;
+}
+.f {
+    margin-left: 2cm;
+    margin-top: -2cm;
+    width: 400px;
+    height: 400px;
+}
+.j {
+    margin-left: 2cm;
+    margin-top: 0.4cm;
+    height: 1.5cm;
+    width: 3.5cm;
+    background-color: #f93b6b;
+    border-radius: 3cm;
+}
+.h{
+    margin-left: 18cm;
+    margin-top: -9cm;
+    height: 9.5cm;
+    width: 9.5cm;
+}
+
+
+
+
+
+
+
+
+
+.i{
+    width: 400px;
+    height: 1800px;
+    background-color: white;
+    margin-top: -4.2cm;
+    margin-left: 1.5cm;
+    border: blue solid 2px;
+    
+}
+.g{
+    width: 265px;
+    height: 1800px;
+    background-color: white;
+    margin-top: -47.75cm;
+    margin-left: 24.52cm;
+    border: blue solid 2px;
+    
+}
+.g img{
+    margin-top: 1cm;
+    height: 5cm;
+    width: 5cm;
+}
+.i img{
+    margin-top: 1cm;
+    height: 5cm;
+    width: 5cm;
+}
+.k{
+    width: 615px;
+    height: 1800px;
+    background-color: white;
+    margin-top: -47.71cm;
+    margin-left: 8.2cm;
+    border: blue solid 2px;
+}
+.k p{
+    margin-top: 0cm;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+table tr th{
+    width: 200px;
+    height: 50px;
+    border: black solid 5px;
+}
+footer{
+    color: white;
+    background-color: black;
+    width: 90%;
+    height: 70px;
+    margin-left: 1.5cm;
+}
+footer img{
+    width: 40px;
+    height: 40px;
+    margin-left: 0cm;
+}
+@media screen (max-width: 640px) {
+    .i {
+      color: white;
+  }
